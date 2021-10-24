@@ -1,7 +1,7 @@
-# Análisis de COVID
+# COVID-19-Analysis
 
 Versión de Python: 3.9.7
 
-1. Correr el script data_importing, esto generará un archivo feather en la carpeta data, el repositorio que has clonado solo contiene un zip, por cuestiones de espacio lo he puesto en ese formato.
+Run the data importing script, you may want to adjust the path given on the script.
 
-2. Correr cleaning.ipynb.
+With this you'll be able to get the latest data uploaded by the "Dirección General de Epidemiología Mexicana"
