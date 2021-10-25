@@ -1,6 +1,6 @@
 # COVID-19-Analysis
 
-Versión de Python: 3.9.7
+Python version: 3.9.7
 
 Run the data importing script, you may want to adjust the path given on the script.
 
