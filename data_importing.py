@@ -14,6 +14,5 @@ with ZipFile(io.BytesIO(response.content)) as zip:
         df = pd.read_csv(data)
 
 df.drop(['PAIS_NACIONALIDAD', 'PAIS_ORIGEN'], axis=1, inplace=True)
-print(df.head())
 
 df.to_feather('data\\data.feather')
